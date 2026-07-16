@@ -27,7 +27,7 @@
   <a href="https://www.researchgate.net/profile/Thanh-Nguyen-803">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
   </a>
-  <a href="https://orcid.org/0009-0002-5839-1991">
+  <a href="">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
   <a href="mailto:thanh.nguyen116engineer@gmail.com">
