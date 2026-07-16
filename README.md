@@ -47,13 +47,10 @@ Alongside his industrial work, he has a passion for academic research, with inte
 
 ## Technical Expertise
 
-- Structural, thermal, and durability analysis
-- Finite element modeling and numerical simulation
-- Computational mechanics and mechanics of materials
-- Numerical methods for engineering problems
-- Scientific machine learning and physics-informed modeling
-- Verification, validation, and convergence analysis
-- Engineering automation and scientific programming
+- Industrial CAE analysis covering heat transfer, durability, vibration, fatigue, and nonlinear behavior
+- Preparation and presentation of technical simulation reports for automotive engineering projects
+- Automation and optimization of engineering workflows using programming
+- Experience working on major automotive development projects at Suzuki and Toyota
 
 ## Languages and Tools
 
