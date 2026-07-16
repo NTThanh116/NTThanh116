@@ -80,15 +80,12 @@ Alongside his industrial work, he has a passion for academic research, with inte
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-## Current Research Directions
+## Research Interests
 
-- Advanced finite element and meshfree formulations
-- Isogeometric analysis for engineering applications
-- Computational modeling of functionally graded materials
-- Physics-informed neural networks for forward and inverse problems
-- Artificial neural networks in mechanics and engineering
-- Computational biomechanics
-- Reproducible numerical methods and open research software
+- Computational mechanics, mechanics of materials, and hyperelastic material modeling
+- Numerical methods, including the finite element method, meshless methods, and isogeometric analysis
+- Physics-informed neural networks and artificial neural networks for mechanics and engineering applications
+- Forward and inverse problems in computational modeling
 
 ## Open Research
 
