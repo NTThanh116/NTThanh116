@@ -52,7 +52,6 @@ Alongside his industrial work, he has a passion for academic research, with inte
 - Automation and optimization of engineering workflows using programming
 - Experience working on major automotive development projects at Suzuki and Toyota
 
-## Languages and Tools
 
 ## Software and Programming
 
