@@ -54,17 +54,31 @@ Alongside his industrial work, he has a passion for academic research, with inte
 
 ## Languages and Tools
 
+## Software and Programming
+
+### Engineering Software
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat-square&logo=ansys&logoColor=black" alt="Ansys" />
+  <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=flat-square&logo=ansys&logoColor=black" alt="ANSYS" />
   <img src="https://img.shields.io/badge/Abaqus-1D4F91?style=flat-square" alt="Abaqus" />
-  <img src="https://img.shields.io/badge/COMSOL-2C3E88?style=flat-square" alt="COMSOL" />
-  <img src="https://img.shields.io/badge/MSC_Marc-005587?style=flat-square" alt="MSC Marc" />
-  <img src="https://img.shields.io/badge/Altair_HyperWorks-0A2896?style=flat-square&logo=altair&logoColor=white" alt="HyperWorks" />
-  <img src="https://img.shields.io/badge/SolidWorks-E31937?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
+  <img src="https://img.shields.io/badge/MSC_Marc%2FMentat-005587?style=flat-square" alt="MSC Marc Mentat" />
+  <img src="https://img.shields.io/badge/Digimat-273C75?style=flat-square" alt="Digimat" />
+  <img src="https://img.shields.io/badge/Autodesk_Moldflow-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk Moldflow" />
+  <img src="https://img.shields.io/badge/Altair_HyperWorks-0A2896?style=flat-square&logo=altair&logoColor=white" alt="Altair HyperWorks" />
+  <img src="https://img.shields.io/badge/COMSOL_Multiphysics-2C3E88?style=flat-square" alt="COMSOL Multiphysics" />
+  <img src="https://img.shields.io/badge/SOLIDWORKS-E31937?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="SOLIDWORKS" />
+  <img src="https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk Inventor" />
   <img src="https://img.shields.io/badge/Siemens_NX-009999?style=flat-square&logo=siemens&logoColor=white" alt="Siemens NX" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/FEMFAT-384B5A?style=flat-square" alt="FEMFAT" />
+  <img src="https://img.shields.io/badge/ADVC_Solver-455A64?style=flat-square" alt="ADVC Solver" />
+</p>
+
+### Programming Languages and Computing Tools
+
+<p>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 ## Current Research Directions
