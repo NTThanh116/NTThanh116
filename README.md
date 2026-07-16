@@ -37,11 +37,9 @@
 
 ## About
 
-I am a **CAE Engineer** at **Toyota Motor Corporation** in Japan and a researcher in computational mechanics.
+NT Thanh is currently a full-time CAE Engineer at Technostar Co., Ltd. (Tokyo, Japan), where he manages simulation projects for Toyota Motor Corporation’s automotive engines (On-site) focusing on Vibration, Fatigue…
 
-My professional work focuses on computer-aided engineering and numerical simulation for automotive development, including structural analysis, thermal analysis, durability assessment, and finite element modeling.
-
-Alongside engineering practice, I pursue academic research in numerical methods, computational modeling, scientific machine learning, inverse problems, and biomechanics.
+Alongside his industrial work, he has a passion for academic research, with interests in computational mechanics, structural engineering, material of mechanics, numerical methods (FEM, Meshfree, IGA), and computational modeling,  Physics-informed neural networks (PINNs), Artificial Neural Network (ANN). Inverse problems and Biomechanics.
 
 ## Research Interests
 
