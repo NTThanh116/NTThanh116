@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="./Avata_robo1.jpg"
-    width="80%"
+    width="50%"
     alt="CAE and computational mechanics banner"
   />
 </p>
