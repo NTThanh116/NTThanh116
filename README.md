@@ -37,7 +37,7 @@
 
 ## About
 
-NT Thanh is currently a full-time CAE Engineer in the R&D division of Toyota Motor Corporation, working on automotive engine development through on-site engineering activities. His work focuses on vibration, thermal analysis, fatigue, durability, and numerical simulation.
+NT Thanh is currently a full-time CAE Engineer in the R&D division of Toyota Motor Corporation, working on automotive part development through on-site engineering activities. His work focuses on vibration, thermal analysis, fatigue, durability, and numerical simulation.
 
 Alongside his industrial work, he has a passion for academic research, with interests in computational mechanics, structural engineering, material of mechanics, numerical methods (FEM, Meshfree, IGA), and computational modeling,  Physics-informed neural networks (PINNs), Artificial Neural Network (ANN). Inverse problems and Biomechanics.
 
