@@ -87,17 +87,15 @@ Alongside his industrial work, he has a passion for academic research, with inte
 - Physics-informed neural networks and artificial neural networks for mechanics and engineering applications
 - Forward and inverse problems in computational modeling
 
-## Open Research
+## Research Sharing
 
-This GitHub profile is used to share:
+This profile shares research findings, computational insights, and reproducible examples in numerical methods, scientific programming, computational modeling, and artificial intelligence.
 
-- numerical implementations;
-- benchmark problems;
-- computational models;
-- technical notes;
-- verification and convergence studies;
-- research-oriented examples;
-- reproducible scientific workflows.
+- Numerical algorithms and implementations
+- Research notes and emerging methods
+- Benchmark and computational modeling studies
+- AI, PINNs, and scientific machine learning
+- Reproducible scientific workflows
 
 ## GitHub Statistics
 
