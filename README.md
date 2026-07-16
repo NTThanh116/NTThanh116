@@ -37,7 +37,7 @@
 
 ## About
 
-NT Thanh is currently a full-time CAE Engineer at Technostar Co., Ltd. (Tokyo, Japan), where he manages simulation projects for Toyota Motor Corporation’s automotive engines (On-site) focusing on Vibration, Fatigue…
+NT Thanh is currently a full-time CAE Engineer at Toyota Motor Corporation’s automotive engines (On-site) focusing on Vibration, Thermal, Fatigue
 
 Alongside his industrial work, he has a passion for academic research, with interests in computational mechanics, structural engineering, material of mechanics, numerical methods (FEM, Meshfree, IGA), and computational modeling,  Physics-informed neural networks (PINNs), Artificial Neural Network (ANN). Inverse problems and Biomechanics.
 
