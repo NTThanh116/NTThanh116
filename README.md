@@ -1,28 +1,126 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b5bdb,100:1e2a78&height=190&section=header&text=Thanh%20Trung%20Nguyen&fontColor=ffffff&fontSize=40&desc=CAE%20Engineer%20%C2%B7%20Computational%20Mechanics%20Researcher&descSize=17&descAlignY=62" alt="Thanh Trung Nguyen" />
+  <img
+    src="./assets/cae-banner.jpg"
+    width="100%"
+    alt="CAE and computational mechanics banner"
+  />
 </p>
 
 <p align="center">
-  <a href="https://ntthanh116.github.io">Website</a> ·
-  <a href="https://www.linkedin.com/in/thanhnguyen116">LinkedIn</a> ·
-  <a href="https://scholar.google.com/citations?user=k-cNMdQAAAAJ&hl=vi">Google Scholar</a> ·
-  <a href="https://orcid.org/0009-0002-5839-1991">ORCID</a>
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Thanh%20Trung%20Nguyen&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=CAE%20Engineer%20%C2%B7%20Computational%20Mechanics%20Researcher&descSize=15&descAlignY=68"
+    width="100%"
+    alt="Thanh Trung Nguyen"
+  />
+</p>
+
+<p align="center">
+  <a href="https://ntthanh116.github.io">
+    <img src="https://img.shields.io/badge/Website-3b5bdb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/thanhnguyen116">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=k-cNMdQAAAAJ&hl=vi">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Thanh-Nguyen-803">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
+  </a>
+  <a href="https://orcid.org/0009-0002-5839-1991">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
 </p>
 
 ## About
 
-CAE Engineer at Toyota Motor Corporation and researcher in computational mechanics.
+I am a **CAE Engineer** at **Toyota Motor Corporation** in Japan and a researcher in computational mechanics.
 
-My interests include structural engineering, mechanics of materials, numerical methods, computational modeling, scientific machine learning, inverse problems, and biomechanics.
+My professional work focuses on computer-aided engineering and numerical simulation for automotive development, including structural analysis, thermal analysis, durability assessment, and finite element modeling.
+
+Alongside engineering practice, I pursue academic research in numerical methods, computational modeling, scientific machine learning, inverse problems, and biomechanics.
 
 ## Research Interests
 
-`Computational Mechanics` · `Finite Element Method` · `Meshfree Methods` · `Isogeometric Analysis` · `PINNs` · `Artificial Neural Networks` · `Inverse Problems` · `Biomechanics`
+`Computational Mechanics` · `Structural Engineering` · `Mechanics of Materials` · `Finite Element Method` · `Meshfree Methods` · `Isogeometric Analysis` · `Computational Modeling` · `Physics-Informed Neural Networks` · `Artificial Neural Networks` · `Inverse Problems` · `Biomechanics`
 
-## Tools
+## Technical Expertise
 
-`Python` · `MATLAB` · `Ansys` · `Abaqus` · `COMSOL` · `MSC Marc` · `HyperWorks` · `SolidWorks` · `Siemens NX`
+- Structural, thermal, and durability analysis
+- Finite element modeling and numerical simulation
+- Computational mechanics and mechanics of materials
+- Numerical methods for partial differential equations
+- Scientific machine learning and physics-informed modeling
+- Verification, validation, and convergence analysis
+- Engineering automation and scientific programming
+
+## Languages and Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat-square&logo=ansys&logoColor=black" alt="Ansys" />
+  <img src="https://img.shields.io/badge/Abaqus-1D4F91?style=flat-square" alt="Abaqus" />
+  <img src="https://img.shields.io/badge/COMSOL-2C3E88?style=flat-square" alt="COMSOL" />
+  <img src="https://img.shields.io/badge/MSC_Marc-005587?style=flat-square" alt="MSC Marc" />
+  <img src="https://img.shields.io/badge/Altair_HyperWorks-0A2896?style=flat-square&logo=altair&logoColor=white" alt="HyperWorks" />
+  <img src="https://img.shields.io/badge/SolidWorks-E31937?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
+  <img src="https://img.shields.io/badge/Siemens_NX-009999?style=flat-square&logo=siemens&logoColor=white" alt="Siemens NX" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+</p>
+
+## Current Research Directions
+
+- Advanced finite element and meshfree formulations
+- Isogeometric analysis for engineering applications
+- Computational modeling of functionally graded materials
+- Physics-informed neural networks for forward and inverse problems
+- Artificial neural networks in mechanics and engineering
+- Computational biomechanics
+- Reproducible numerical methods and open research software
+
+## Open Research
+
+This GitHub profile is used to share:
+
+- numerical implementations;
+- benchmark problems;
+- computational models;
+- technical notes;
+- verification and convergence studies;
+- research-oriented examples;
+- reproducible scientific workflows.
+
+## GitHub Statistics
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=NTThanh116&show_icons=true&hide_border=true&theme=tokyonight&title_color=58a6ff&icon_color=58a6ff"
+    alt="GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTThanh116&layout=compact&hide_border=true&theme=tokyonight&title_color=58a6ff"
+    alt="Top languages"
+  />
+</p>
+
+## Academic Profiles
+
+- Website: [ntthanh116.github.io](https://ntthanh116.github.io)
+- Google Scholar: [View publications](https://scholar.google.com/citations?user=k-cNMdQAAAAJ&hl=vi)
+- ResearchGate: [Research profile](https://www.researchgate.net/profile/Thanh-Nguyen-803)
+- ORCID: [0009-0002-5839-1991](https://orcid.org/0009-0002-5839-1991)
 
 ## Contact
 
-📧 [thanh.nguyen116engineer@gmail.com](mailto:thanh.nguyen116engineer@gmail.com)
+For academic collaboration, research discussion, or technical exchange:
+
+**Email:** [thanh.nguyen116engineer@gmail.com](mailto:thanh.nguyen116engineer@gmail.com)
+
+---
+
+<p align="center">
+  <i>Engineering simulation · Numerical methods · Computational research</i>
+</p>
