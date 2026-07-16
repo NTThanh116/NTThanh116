@@ -118,7 +118,6 @@ This profile shares research findings, computational insights, and reproducible 
 - LinkedIn: [linkedin.com/in/thanhnguyen116](https://www.linkedin.com/in/thanhnguyen116)
 - Google Scholar: [View publications](https://scholar.google.com/citations?user=k-cNMdQAAAAJ&hl=vi)
 - ResearchGate: [Research profile](https://www.researchgate.net/profile/Thanh-Nguyen-803)
-- ORCID: [0009-0002-5839-1991](https://orcid.org/0009-0002-5839-1991)
 
 ## Contact
 
