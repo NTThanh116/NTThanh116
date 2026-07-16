@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/cae-banner.jpg"
+    src="./Avata_robo1.jpg"
     width="100%"
     alt="CAE and computational mechanics banner"
   />
@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Thanh%20Trung%20Nguyen&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=CAE%20Engineer%20%C2%B7%20Computational%20Mechanics%20Researcher&descSize=15&descAlignY=68"
+    src="https://capsule-render.vercel.app/api?type=transparent&height=170&text=Thanh%20Trung%20Nguyen&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=CAE%20Engineer%20%C2%B7%20Computational%20Mechanics%20Researcher&descSize=15&descAlignY=66"
     width="100%"
     alt="Thanh Trung Nguyen"
   />
@@ -30,6 +30,9 @@
   <a href="https://orcid.org/0009-0002-5839-1991">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
+  <a href="mailto:thanh.nguyen116engineer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ## About
@@ -49,7 +52,7 @@ Alongside engineering practice, I pursue academic research in numerical methods,
 - Structural, thermal, and durability analysis
 - Finite element modeling and numerical simulation
 - Computational mechanics and mechanics of materials
-- Numerical methods for partial differential equations
+- Numerical methods for engineering problems
 - Scientific machine learning and physics-informed modeling
 - Verification, validation, and convergence analysis
 - Engineering automation and scientific programming
@@ -109,6 +112,7 @@ This GitHub profile is used to share:
 ## Academic Profiles
 
 - Website: [ntthanh116.github.io](https://ntthanh116.github.io)
+- LinkedIn: [linkedin.com/in/thanhnguyen116](https://www.linkedin.com/in/thanhnguyen116)
 - Google Scholar: [View publications](https://scholar.google.com/citations?user=k-cNMdQAAAAJ&hl=vi)
 - ResearchGate: [Research profile](https://www.researchgate.net/profile/Thanh-Nguyen-803)
 - ORCID: [0009-0002-5839-1991](https://orcid.org/0009-0002-5839-1991)
